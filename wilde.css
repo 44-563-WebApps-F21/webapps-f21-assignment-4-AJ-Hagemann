@@ -1,19 +1,19 @@
 .speech {
     color: black;
-    font-size: 14;
+    font-size: 14px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .stage-direction {
     color: black;
-    font-size: 12;
+    font-size: 12px;
     font-family: 'Arial';
     background: lightblue;
 }
 
 .name {
     color: black;
-    font-size: 10;
+    font-size: 10px;
     font-family: 'Calibri';
 }
 
