@@ -31,6 +31,6 @@
 }
 
 .name:hover {
-    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    box-shadow: 0 3px 10px red;
     border: 1px solid black;
 }
