@@ -1,19 +1,19 @@
 .speech {
     color: black;
-    font-size: 14px;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .stage-direction {
     color: black;
-    font-size: 12px;
+    font-size: 22px;
     font-family: 'Arial';
     background: lightblue;
 }
 
 .name {
     color: black;
-    font-size: 10px;
+    font-size: 25px;
     font-family: 'Calibri';
 }
 
@@ -31,7 +31,7 @@
 }
 
 .name:hover {
-    text-shadow: chartreuse;
+    box-shadow: chartreuse;
     background: crimson;
     border: 1px solid black;
 }
