@@ -29,3 +29,9 @@
 .LADYSTUTFIELD {
     color: green;
 }
+
+.name:hover {
+    text-shadow: chartreuse;
+    background: crimson;
+    border: 1px solid black;
+}
